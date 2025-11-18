@@ -1,12 +1,27 @@
-## Hi there I'm Gabriel👋
-
-<!--
-**GabrielGutierrezAgredano/GabrielGutierrezAgredano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning webs, c language, and  computer's hardware & software
-- 👯 I’m looking to collaborate on microsoft, google, meta, oracle or apple.
-- 📫 How to reach me: My personal account is gabrielgutie1234@gmail.com u can send me any message.
-- ⚡ Fun fact: I love videogames, that's why I decided to study computer engineering 
--->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>## Hi there I'm Gabriel👋</title>
+</head>## Hi there I'm Gabriel👋
+<body style="background-color: black;">
+     
+    <h1 style="color: red">I'm currently learning webs, c language, and  computer's hardware & software</h1>
+    <br>
+    <h1 style="color: white">I'm looking to collaborate on microsoft, google, meta, oracle or apple.</h1>
+    <br>
+    <h1 style="color: red">How to reach me: My personal account is gabrielgutie1234@gmail.com u can send me any message.</h1>
+    <br>
+    <h1 style="color: white">Fun fact: I love videogames, that's why I decided to study computer engineering</h1>
+    <br>
+    <h3>🟦🟦🟦🟦🟦🟦🟦</h3><br>
+    <h3>🟦🟦🟦⭐🟦🟦🟦</h3><br>
+    <h3>🟦🟦🟩🟩🟩🟦🟦</h3><br>
+    <h3>🟦🟦🟩🟩🟩🟦🟦</h3><br>
+    <h3>🟦🟩🟩🟩🟩🟩🟦</h3><br>
+    <h3>🟦🟩🟩🟩🟩🟩🟦</h3><br>
+    <h3>🟩🟩🟩🟩🟩🟩🟩</h3><br>
+    <h3>🟩🟩🟩🟩🟩🟩🟩</h3>
+</body>
+</html>
